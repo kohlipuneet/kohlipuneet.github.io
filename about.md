@@ -104,22 +104,20 @@ permalink: /resume/
 **References:**
 
 1. Prof. Rup Lal
- (http://people.du.ac.in/~rlal/)
+ 
 	Professor
 	Department of Zoology
 	University of Delhi
-	Email: [ruplal@gmail.com](mailto:ruplal@gmail.com)
-
+	
 3. Prof. Yogendra Singh
- (https://www.igib.res.in/?q=YogendraSingh)
+ 
 	Currently professor at Department of Zoology, University of Delhi. 
 	Also working at CSIR-IGIB,
-Mall road, New Delhi India
+	Mall road, New Delhi India
 
-	Email: ysingh@igib.res.in
+	
 
-4. Komal Kamra (http://www.sgtbkhalsadu.ac.in/viewgallery6.jsp?&depart=Zoology&iD=1196)
+4. Komal Kamra 
 	Associate Professor
 SGTB Khalsa College, University of Delhi, Delhi 110007
-Email: komalkamra@yahoo.com
 
