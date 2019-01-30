@@ -104,13 +104,11 @@ permalink: /resume/
 **References:**
 
 1. Prof. Rup Lal
- 
 	Professor
 	Department of Zoology
 	University of Delhi
 	
 3. Prof. Yogendra Singh
- 
 	Currently professor at Department of Zoology, University of Delhi. 
 	Also working at CSIR-IGIB,
 	Mall road, New Delhi India
@@ -119,5 +117,5 @@ permalink: /resume/
 
 4. Komal Kamra 
 	Associate Professor
-SGTB Khalsa College, University of Delhi, Delhi 110007
+	SGTB Khalsa College, University of Delhi, Delhi 110007
 
